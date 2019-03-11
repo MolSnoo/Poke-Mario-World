@@ -1,0 +1,5 @@
+206	Grass.asm
+231	Door.asm
+254	Door.asm
+260	NoScroll.asm
+269	Door.asm
